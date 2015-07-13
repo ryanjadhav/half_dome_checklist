@@ -1,7 +1,7 @@
 # half_dome_checklist
 
 General: 
-- [ ] 4 extra gallons of water
+- [] 4 extra gallons of water
 - [ ] Ground up coffee
 - [ ] French press
 
