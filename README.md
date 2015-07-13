@@ -1,9 +1,14 @@
 # half_dome_checklist
 
 General: 
-- [] 4 extra gallons of water
+- [ ] 4 extra gallons of water
 - [ ] Ground up coffee
-- [ ] French press
+- [x] French press
+- [x] Spike Ball
+- [x] Water Filter
+- [x] Sunscreen
+- [ ] Camp lights (headlamps)
+- [ ] Utensils
 
 Friday Breakfast:
 - [ ] Bagel
