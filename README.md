@@ -39,3 +39,6 @@ Sunday Breakfast:
 - [ ] Eggs
 - [ ] Bacon
 - [ ] Hashbrowns
+
+Sunday Lunch:
+- [ ] Yosemite Grill?
