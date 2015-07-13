@@ -1,11 +1,21 @@
 # half_dome_checklist
 
-[ ] 4 gallons of water
+General: 
+- [ ] 4 gallons of water
 
-Dinner: 
-[ ] chicken
-[ ] cheese
-[ ] tortilla
-[ ] salsa
-[ ] chips
-[ ] sour cream? 
+Friday Breakfast:
+- [ ] Bagel
+- [ ] Cream Cheese
+- [ ] 6 Bananas
+
+Friday Lunch:
+- [ ] 6 Sandwiches
+- [ ] Turkey Jerky
+
+Friday Dinner: 
+- [ ] chicken
+- [ ] cheese
+- [ ] tortilla
+- [ ] salsa
+- [ ] chips
+- [ ] sour cream? 
